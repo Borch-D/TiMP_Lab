@@ -4,7 +4,7 @@
 - в Telegram - @dmitry_b_5
 - в GitHub - Borch-D
 Я сгенерировал персональный токен с правами gist и сохранил его в файл с помощью команд:
-> touch token.txt
-> cat >> token.txt
-> <токен>
-> ^D
+touch token.txt
+cat >> token.txt
+<токен>
+^D
